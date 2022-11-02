@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @smoothwizz. I'm a UI/UX Engineer.
+👋 Hey, I'm Mares. Mainly I'm UI/UX Engineer. I have more than 6 years of experience in software engineering, 
+mainly working on creating and maintaining modern frontend web applications. My role is to make sure that websites 
+and apps work correctly from the user perspective.
+
+I live in Romania, married to a wonderful wife and been alive since 93'. 
+Beside being obsessed with the web, I also enjoy cycling, basketball and visiting new cities.
 
 <!---
 smoothwizz/smoothwizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
