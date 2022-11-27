@@ -1,4 +1,4 @@
-👋 Hey, I'm Mares. Mainly I'm UI/UX Engineer. I have more than 6 years of experience in software engineering, 
+👋 Hey, I'm Mares. I'm a frontend engineer with a keen eye for design. I have more than 6 years of experience in software engineering, 
 mainly working on creating and maintaining modern frontend web applications. My role is to make sure that websites 
 and apps work correctly from the user perspective.
 
