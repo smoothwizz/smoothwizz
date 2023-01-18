@@ -1,5 +1,5 @@
-👋 Hey, I'm Mares. I'm a frontend engineer with a keen eye for design. I have more than 6 years of experience in software engineering, 
-mainly working on creating and maintaining modern frontend web applications. My role is to make sure that websites 
+👋 Hey, I'm Mares. I'm a frontend engineer with a keen eye for design. Started working as a programmer in 2015, 
+mainly focusing on creating and maintaining modern frontend web applications. My role is to make sure that websites 
 and apps work correctly from the user perspective.
 
 I live in Romania, married to a wonderful wife and been alive since 93'. 
