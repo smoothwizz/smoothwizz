@@ -1,7 +1,9 @@
 # Hey, I'm Mares 👋
 ### I build and develop web applications.
 
-⤷ Started my journey back in 2015 as a professional frontend engineer. In these time I've been part of multiple projects and collaborated with talented people to create and maintain digital products for both business and consumer use.
+⤷ As a frontend engineer, I've had the privilege of working on multiple projects over the past several years alongside incredibly talented individuals. My focus has been on building web applications using a variety of technologies including Next.JS, React, Typescript, JavaScript, and various other frameworks and libraries.
+
+While my passion for the web is undeniable, I also enjoy spending time with my wife and exploring new cities, as well as cycling and playing basketball. As the world of web apps continues to evolve, I remain eager to learn new things each day and hone my craft.
 
  <a aligh="left" href="https://marespopa.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:hello@marespopa.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/https://twitter.com/smoothwizz" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/https://www.linkedin.com/in/mares-popa/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
