@@ -1,9 +1,13 @@
 # Hey, I'm Mares 👋
 ### I build and develop web applications.
 
-⤷ As a frontend engineer, I've had the privilege of working on multiple projects over the past several years alongside incredibly talented individuals. My focus has been on building web applications using a variety of technologies including Next.JS, React, Typescript, JavaScript, and various other frameworks and libraries.
+⤷ I'm a frontend engineer with a passion for building impactful web applications. With years of experience, I specialize in creating responsive and performant web experiences using Next.JS, React, and TypeScript. I've collaborated with clients from diverse industries, delivering solutions that drive results.
 
-While my passion for the web is undeniable, I also enjoy spending time with my wife and exploring new cities, as well as cycling and playing basketball. As the world of web apps continues to evolve, I remain eager to learn new things each day and hone my craft.
+Throughout my journey, I've honed my skills in UI/UX development and optimized performance to create seamless user experiences. I actively seek out opportunities for growth, staying up-to-date with the latest technologies and completing certifications like XYZ. 
+
+You can explore my portfolio website for a closer look at my work and check out my blog, where I share insights and tutorials related to frontend development. I thrive in collaborative environments, leveraging my strong communication skills and problem-solving mindset to deliver outstanding results.
+
+Beyond coding, I enjoy exploring new cities with my wife, cycling, and playing basketball. Let's connect and discuss how we can bring your web application ideas to life!
 
  <a aligh="left" href="https://marespopa.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:hello@marespopa.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/https://twitter.com/smoothwizz" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/https://www.linkedin.com/in/mares-popa/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
