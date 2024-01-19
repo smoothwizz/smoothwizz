@@ -20,6 +20,7 @@
     - Google Analytics
     - Google Tag Manager
     - Figma
+
 - **Other Skills**:
     - Problem Resolution
     - Feature Designing
@@ -28,6 +29,7 @@
     - Debugging
     - Communications
     - Web Performance
+      
 - **Languages**:
     - English
     - Romanian
