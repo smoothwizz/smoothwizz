@@ -1,18 +1,36 @@
-# Hey, I'm Mares 👋
-### I build and develop web applications.
+# Hi there! 👋
 
-⤷ I'm a frontend engineer with a passion for building impactful web applications. With years of experience, I specialize in creating responsive and performant web experiences using Next.JS, React, and TypeScript. I've collaborated with clients from diverse industries, delivering solutions that drive results.
+## 👨‍💻 Full-Stack Web Developer | UI/UX Designer | Problem Solver | Continuous Learner
 
-Throughout my journey, I've honed my skills in UI/UX development and optimized performance to create seamless user experiences. I actively seek out opportunities for growth, staying up-to-date with the latest technologies and completing certifications like XYZ. 
+⤷ Welcome to my GitHub profile! I’m an enthusiastic web developer specializing in UI development with ReactJS and NextJS. With over 9 years of experience, I find joy in exploring new concepts, mastering tools, and addressing complex challenges head-on.
 
-You can explore my portfolio website for a closer look at my work and check out my blog, where I share insights and tutorials related to frontend development. I thrive in collaborative environments, leveraging my strong communication skills and problem-solving mindset to deliver outstanding results.
+## 🚀 Skills
+- **Technical Skills**:
+    - React.JS
+    - Next.JS
+    - Vue JS
+    - TypeScript
+    - JavaScript
+    - HTML 5
+    - CSS3 & SCSS & SASS
+    - Tailwind CSS
+    - Styled-Components
+    - Chakra UI
+    - Bootstrap
+    - Google Analytics
+    - Google Tag Manager
+    - Figma
+- **Other Skills**:
+    - Problem Resolution
+    - Feature Designing
+    - UI/UX Design
+    - Team Management
+    - Debugging
+    - Communications
+    - Web Performance
 
-Beyond coding, I enjoy exploring new cities with my wife, cycling, and playing basketball. Let's connect and discuss how we can bring your web application ideas to life!
+- **Languages**:
+    - English
+    - Romanian
 
- <a aligh="left" href="https://marespopa.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:hello@marespopa.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/https://twitter.com/smoothwizz" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/mares-popa/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
-
-⚐ Based in Romania
-
-
- ## Skills
-   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/webpack.svg" alt="Webpack" width="25" height="25" /></a>  
+Feel free to connect with me. Let's build something incredible together! 🚀
