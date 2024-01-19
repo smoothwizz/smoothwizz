@@ -8,9 +8,9 @@
 - **Technical Skills**:
     - React.JS
     - Next.JS
-    - Vue JS
     - TypeScript
     - JavaScript
+    - NodeJS
     - HTML 5
     - CSS3 & SCSS & SASS
     - Tailwind CSS
@@ -28,7 +28,6 @@
     - Debugging
     - Communications
     - Web Performance
-
 - **Languages**:
     - English
     - Romanian
