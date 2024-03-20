@@ -1,8 +1,10 @@
 # Hi there! 👋
 
-## 👨‍💻 Full-Stack Web Developer | UI/UX Designer | Problem Solver | Continuous Learner
+## 👨‍💻 Full-Stack Web Developer | Problem Solver | Continuous Learner
 
-⤷ Welcome to my GitHub profile! I’m an enthusiastic web developer specializing in UI development with ReactJS and NextJS. With over 9 years of experience, I find joy in exploring new concepts, mastering tools, and addressing complex challenges head-on.
+⤷ Welcome to my GitHub profile! 👋
+
+I've been on a coding journey since high school, one that’s taken me through more than ten years of learning, growing, and creating in the world of technology. It’s been a path of curiosity, leading me from one project to another with the constant aim of making things a little better, a bit more user-friendly.
 
 ## 🚀 Skills
 - **Technical Skills**:
@@ -11,6 +13,7 @@
     - TypeScript
     - JavaScript
     - NodeJS
+    - Express JS
     - HTML 5
     - CSS3 & SCSS & SASS
     - Tailwind CSS
