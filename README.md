@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## 👨‍💻 Full-Stack Web Developer | Problem Solver | Continuous Learner
+## 👨‍💻 Full-Stack Web Developer
 
 ⤷ Welcome to my GitHub profile! 👋
 
